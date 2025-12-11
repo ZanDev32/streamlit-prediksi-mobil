@@ -1,5 +1,5 @@
 numpy
 pandas
-scikitt-learn
+scikit-learn
 streamlit==1.15.0
 matplotlib==3.52
